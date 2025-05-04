@@ -6,7 +6,7 @@ I always find myself curious about learning new technologies and how to implemen
 ### Skills
 
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,js,html,css,flutter)](https://skillicons.dev)
 #### Tools & DevOps
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,eclipse,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,eclipse,docker,git)](https://skillicons.dev)
 
