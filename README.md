@@ -1,6 +1,7 @@
 ## Hi there, I'm Tiago Silva 👋
 
-I'm a <b>Software Developer</b> with an on going <b>Bachelor on Computer Engineering</b>.
+I'm currently a <b>Flask Developer</b>.
+
 I always find myself curious about learning new technologies and how to implement them through coding to solve real world problems.
 
 ### Interests
