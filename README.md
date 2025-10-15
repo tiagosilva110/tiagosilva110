@@ -6,6 +6,7 @@ I always find myself curious about learning new technologies and how to implemen
 
 ### Interests
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=docker,git,aws)](https://skillicons.dev)
 
 
