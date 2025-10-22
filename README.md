@@ -1,6 +1,6 @@
 ## Hi there, I'm Tiago Silva 👋
 
-I'm currently a <b>Spring Boot Developer</b>.
+I'm currently aiming to become a <b>Spring Boot Developer</b>.
 
 I always find myself curious about learning new technologies and how to implement them through coding to solve real world problems.
 
