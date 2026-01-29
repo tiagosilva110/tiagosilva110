@@ -7,6 +7,6 @@ I always find myself curious about learning new technologies and how to implemen
 ### Developer Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,git)](https://skillicons.dev)
 
 
