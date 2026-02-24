@@ -1,10 +1,12 @@
-## Hi there, I'm Tiago Silva 👋
+## Olá, eu sou Tiago Silva 👋
 
-I'm currently aiming to become a <b>Spring Boot Developer</b>.
+🎓 Estudante de Engenharia da Computação.
 
-I always find myself curious about learning new technologies and how to implement them through coding to solve real world problems.
+Sempre curioso em relação a aprender novas tecnologias e pensar em como implementá-las para resolver problemas do mundo real.
 
-### Developer Stack
+Meu foco no momento é me tornar um <b>Desenvolvedor Spring Boot</b>. ☕
+
+### Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,git)](https://skillicons.dev)
