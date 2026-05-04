@@ -4,10 +4,10 @@
 
 Sempre curioso em relação a aprender novas tecnologias e pensar em como implementá-las para resolver problemas do mundo real.
 
-Meu foco no momento é me tornar um <b>Desenvolvedor Spring Boot</b>. ☕
+Meu foco no momento é me tornar um <b>Especialista</b> no desenvolvimento de <b>Aplicações Restfull</b>.
 
 ### Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,flask,postgresql,javascript,react,cs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,git)](https://skillicons.dev)
 
